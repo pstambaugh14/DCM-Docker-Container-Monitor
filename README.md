@@ -22,6 +22,7 @@ TECHNOLOGIES TO BE UTILZIED:
 - Index Data for analytics and machine learning
 - Search Tools
 - Graphs, statistics, Web-UI
+- Enhanced Security
 - Beautiful Dashboard
 
 # New Goals:
