@@ -43,10 +43,6 @@ TECHNOLOGIES TO BE UTILZIED:
 
 # Credits:
 Credits to licenses, person(s) involved, due credit to open-source providers or any other contributor.  
-
-## License
-Created by Patrick Stambaugh.
-https://github.com/pstambaugh14/DCM-Docker-Container-Monitor
 IBM/RedHat
 Alphabet/Google
 Oracle/Jenkins
@@ -54,6 +50,10 @@ Linus Torvalds
 GNU
 Elastic
 MIT, APACHE, etc. Other Credits due probably.
+
+## License
+Created by Patrick Stambaugh.
+https://github.com/pstambaugh14/DCM-Docker-Container-Monitor
 
 ## INSTALL INSTRUCTIONS
 ```sh
